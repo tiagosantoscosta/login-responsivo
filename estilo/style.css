@@ -121,7 +121,12 @@ div > label {
 }
 
 footer {
-    text-align: center  ;   
-    margin-top: -80px;
+    text-align: center;   
+    margin-top: -70px;
     color: white;  
+}
+
+#linkedin {
+    width: 42px;
+    
 }
