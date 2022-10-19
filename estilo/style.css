@@ -121,8 +121,7 @@ div > label {
 }
 
 footer {
-    text-align: center;
+    text-align: center  ;   
     margin-top: -80px;
-    color: white;
-    text-shadow: 0px 0px 5px black;
+    color: white;  
 }
