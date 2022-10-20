@@ -130,6 +130,6 @@ footer {
     padding-top: 15px;   
 }
 .icons {    
-    opacity: 0.8;
+    filter: invert(40%);
     
 }
