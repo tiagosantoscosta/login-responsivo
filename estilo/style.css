@@ -133,3 +133,9 @@ footer {
     filter: invert(40%);
     
 }
+ #logotiago {
+    display: block;
+    margin: auto;
+    width: 100px;
+    
+ }
